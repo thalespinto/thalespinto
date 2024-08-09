@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything about CS
 
 <div align="center">
-  <a href="https://github.com/thalesmendonca">
+  <a href="https://github.com/thalespinto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalespinto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalespinto&layout=compact&langs_count=7&theme=dark"/>
 </div>
